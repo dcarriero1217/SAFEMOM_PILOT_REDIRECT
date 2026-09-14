@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.safemom.app",
+      "sha256_cert_fingerprints": [
+        "B4:85:13:87:03:01:D3:96:B8:E1:83:A9:7E:40:45:95:1A:63:41:A7:A1:70:AB:F1:20:FF:7E:10:67:B9:25:49",
+        "7A:46:0E:51:86:40:BC:D6:23:B4:BD:BD:CA:50:B2:FD:0F:34:23:AC:EA:B4:DD:3C:95:66:3D:05:5E:B5:BF:D4"
+      ]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6TN2RKL6Y7.org.safemom.app"],
+        "components": [
+          { "/": "/incident/*", "comment": "Active Incident View deep link" },
+          { "/": "/emergency/*", "comment": "Emergency screen deep link" },
+          { "/": "/events/*", "comment": "Build 86 #179: shared event links open the app" },
+          { "/": "/groups/*", "comment": "Build 86 #289: group + pinned calendar links open the app" }
+        ]
+      }
+    ]
+  }
+}
